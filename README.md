@@ -1,3 +1,6 @@
+# Its an frontend app with the implementation of todo with remainder feature
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
