@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Meeting with Ghetto groupo",
       "day": "May be sunday",
-      "remainder": true
+      "remainder": false
     },
     {
       "id": 3,
@@ -29,6 +29,12 @@
       "day": "Jan 8th",
       "remainder": true,
       "id": 5
+    },
+    {
+      "text": "veda Func",
+      "day": "21 st Oct",
+      "remainder": true,
+      "id": 6
     }
   ]
 }
