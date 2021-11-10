@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Meeting with Ghetto groupo",
       "day": "May be sunday",
-      "remainder": false
+      "remainder": true
     },
     {
       "id": 3,
